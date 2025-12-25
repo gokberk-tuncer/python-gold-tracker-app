@@ -10,9 +10,6 @@
 - [API Yapılandırması](#-api-yapılandırması)
 - [Desteklenen Altın Türleri](#-desteklenen-altın-türleri)
 - [Örnek Kullanım](#-örnek-kullanım)
-- [Gereksinimler](#-gereksinimler)
-- [Katkıda Bulunma](#-katkıda-bulunma)
-- [Lisans](#-lisans)
 
 ## ✨ Özellikler
 
